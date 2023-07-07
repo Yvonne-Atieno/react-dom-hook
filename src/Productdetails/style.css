@@ -1,0 +1,32 @@
+.product-details {
+    width: 400px;
+    margin: 0 auto;
+  }
+  
+  .product-details h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .product-details img {
+    width: 100%;
+    max-height: 200px;
+    object-fit: cover;
+    margin-bottom: 10px;
+  }
+  
+  .product-details h2 {
+    margin-bottom: 5px;
+  }
+  
+  .product-details p {
+    margin-bottom: 5px;
+  }
+  
+  .product-details h4 {
+    margin-top: 10px;
+  }
+  
+  .loading {
+    text-align: center;
+  }

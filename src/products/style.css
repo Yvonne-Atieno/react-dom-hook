@@ -1,0 +1,16 @@
+.product{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.img{
+width: 200px;
+height: 200px;
+border-radius: 6px;
+}
+.discount{
+    border-radius: 8px;
+    color: white;
+    border: green;
+
+}
